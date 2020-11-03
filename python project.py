@@ -4,7 +4,7 @@ from PIL import ImageTk, Image
 
 window = Tk()
 window.title("Ready to Hang!! If you didn't find the word less than 4 chances")
-window.geometry("1920x1080")
+window.geometry("1000x900")
 chances=6;
 image_paths=['hang.jpg','hangman02.png','hangman03.png','hangman04.png','hangman05.png'
              ,'hangman06.png','hangman07.png']
